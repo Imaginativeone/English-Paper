@@ -10,9 +10,9 @@ Your response must contain-
 Make sure you use complete sentences, capitalization and grammar. Before submitting make sure you have done steps 1-5. Your response should be no less than 20 sentences to form TWO fully developed paragraphs. 
 Life evaluations rise with steady income.
 
-Main Idea Introduction: The study from Princeton Economist Angus Deaton and Psychologist Daniel Kahneman indicated that high incomes don’t make people happier.
+**Main Idea Introduction**: The study from Princeton Economist Angus Deaton and Psychologist Daniel Kahneman indicated that high incomes don’t make people happier.
 
-Claim: I agree with the conclusions of their study.
+**Claim**: I agree with the conclusions of their study.
 
 “Life evaluations rise with steady income,” firstly , life evaluations are a product of someone living a happier life, life evaluation doesn't need a high income. The article also mentions that “emotional well-being drops off at around $75,000” So making any more than 75,000 won’t make you happier.
 
