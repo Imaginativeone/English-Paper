@@ -12,11 +12,11 @@ Life evaluations rise with steady income.
 
 **Main Idea Introduction**: The study from Princeton Economist Angus Deaton and Psychologist Daniel Kahneman indicated that high incomes don’t make people happier.
 
-**Claim**: I agree with the conclusions of their study.
+**Claim**: I agree with the conclusions of their study. First, life evaluations are a product of someone living a happier life, life evaluation doesn't need a high income. The article also mentions that “emotional well-being drops off at around $75,000” So making any more than 75,000 won’t make you happier.
 
-“Life evaluations rise with steady income,” firstly , life evaluations are a product of someone living a happier life, life evaluation doesn't need a high income. The article also mentions that “emotional well-being drops off at around $75,000” So making any more than 75,000 won’t make you happier.
+**Quote**: “Life evaluations rise with steady income,”
 
-My grandparents were happy even though they didn’t make high incomes.  My grandfather’s income was probably about 26,000 (about 75,000 $77,403.71
+**Personal Story**: My grandparents were happy even though they didn’t make high incomes.  My grandfather’s income was probably about 26,000 (about 75,000 $77,403.71
 
 today according to: https://www.bls.gov/data/inflation_calculator.htm
 ) thousand dollars per year in 1984 in a house with 5 kids  (including my dad)
